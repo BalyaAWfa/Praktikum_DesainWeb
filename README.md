@@ -8,6 +8,6 @@ Kampus : Universitas Islam Balitar
 ## 😘 Author 😍
 -[@Blya-Wfa](https://github.com/Balyax)
 
-- Pertemuan 1 : [Link Replit]
+- Pertemuan 1 : [Link codepan](https://codepen.io/collection/YyYJry)
 - Pertemuan 2&3 : [Link Replit]
 - Pertemuan 4 : [Link Replit]
