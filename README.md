@@ -9,8 +9,5 @@ Kampus : Universitas Islam Balitar
 -[@Blya-Wfa](https://github.com/Balyax)
 
 - Pertemuan 1 : [Link Replit]
--               [Link Codepen]
 - Pertemuan 2&3 : [Link Replit]
--                 [Link Codepen]
 - Pertemuan 4 : [Link Replit]
--               [Link Codepen]
