@@ -4,10 +4,9 @@ NIM : 21104410052 \
 Jurusan : Teknik Informatika \
 Kampus : Universitas Islam Balitar
 
+## Live Preview Praktikum And Tugas
 ##😘 Author
 -[@Blya-Wfa](https://github.com/Balyax)
-
-## Live Preview Praktikum And Tugas\
 
 -Pertemuan 1 : [Replit]
 -Pertemuan 2&3 : [Replit]
