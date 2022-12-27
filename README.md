@@ -5,7 +5,7 @@ Jurusan : Teknik Informatika \
 Kampus : Universitas Islam Balitar
 
 ## Live Preview Praktikum And Tugas
-## 😘 Author
+## 😘 Author 😍
 -[@Blya-Wfa](https://github.com/Balyax)
 
 - Pertemuan 1 : [Link Replit]
