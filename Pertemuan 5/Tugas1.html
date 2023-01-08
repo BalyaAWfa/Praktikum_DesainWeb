@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Css</title>
+</head>
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    /* Style the header*/
+    header {
+        background-color: #666;
+        padding: 30px;
+        text-align: center;
+        font-size: 35px;
+        color: white;
+    }
+
+    /*Create two colums/boxes that floats next to each other */
+    nav {
+        float: left;
+        width: 30%;
+        height: 300px; /* only for demostration, should be remove*/
+        background: #ccc;
+        padding: 20px;
+    }
+
+    /* Style the List inside the menu */
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    article {
+        float: right;
+        padding: 20px;
+        width: 70%;
+        height: 300px; /* Only for demostration, should be removed */
+    }
+
+    /* Clear floats after the columns */
+    section::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    /* Style the footer */
+    footer {
+        background-color: #777;
+        padding: 10px;
+        text-align: center;
+        color: white;
+    }
+
+    /* Responsive layout - makes the two colums/boxes stack on top of each*/
+    @media (max-width: 600px){
+        nav, article {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+</style>
+<body>
+    <header>
+        <h2>Cities</h2>
+    </header>
+    <section>
+        <nav>
+            <ul>
+                <li><a href="#">London</a></li>
+                <li><a href="#">Paris</a></li>    
+                <li><a href="#">Tokyo</a></li>
+            </ul>
+        </nav>
+ 
+        <article>
+            <h1>London</h1>
+            <p>London is the capital city of England. It is the most populaous city in the United kingdom</p>
+            <p>Standing on the River Themes, London has been a major settlement for two millennia, its</p>
+        </article>
+    </section>
+        <footer>
+            <p>Footer</p>
+        </footer>
+</body>
+</html>
