@@ -1,0 +1,16 @@
+{
+  "name": "pertemuan-6",
+  "version": "1.0.0",
+  "description": "Latihan TailwindCss",
+  "main": "postcss.config.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/css/style.css -o ./public/css/tailwind.css --watch"
+  },
+  "author": "Balya Ahmad Waffa",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  }
+}
